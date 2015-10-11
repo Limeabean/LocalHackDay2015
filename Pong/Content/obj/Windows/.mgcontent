@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/menu.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/ball.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/paddleBot.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/paddleRight.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/paddleTop.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/pointer.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/credits.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/paddleLeft.png</File>
+    <File>C:/Users/Shahir Chowdhury/Desktop/Pong/Pong/Content/gameover.png</File>
+  </SourceFiles>
+</SourceFileCollection>
